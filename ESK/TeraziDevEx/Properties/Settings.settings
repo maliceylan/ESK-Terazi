@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TeraziDevEx.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Terazi1Aktivite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Terazi2Aktivite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Terazi3Aktivite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Terazi4Aktivite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Terazi5Aktivite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TeraziIsim1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terazi 1</Value>
+    </Setting>
+    <Setting Name="TeraziIsim2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terazi 2</Value>
+    </Setting>
+    <Setting Name="TeraziIsim3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terazi 3</Value>
+    </Setting>
+    <Setting Name="TeraziIsim4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terazi 4</Value>
+    </Setting>
+    <Setting Name="TeraziIsim5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terazi 5</Value>
+    </Setting>
+    <Setting Name="TeraziCom1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TeraziCom2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TeraziCom3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TeraziCom4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TeraziCom5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TeraziCom6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TeraziIsim6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terazi 6</Value>
+    </Setting>
+    <Setting Name="Terazi6Aktivite" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="conString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-B99B6GC;Initial Catalog=Terazi;Integrated Security=False;User ID=genesis;Password=genesis;Connect Timeout=15;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
